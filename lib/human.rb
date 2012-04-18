@@ -1,0 +1,3 @@
+class Human < TimeTravel
+  
+end
