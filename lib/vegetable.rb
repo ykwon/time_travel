@@ -1,0 +1,2 @@
+class Vegetable < TimeTravel
+end

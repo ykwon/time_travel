@@ -1,6 +1,7 @@
 class Human < TimeTravel
   
-  def initializer
+  attr_accessor :age
+  def initialize
     super 
   end
 end
